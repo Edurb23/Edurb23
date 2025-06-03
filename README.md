@@ -1,7 +1,6 @@
 ### Hello there!!! 🖖
 
 - Edu aqui!!!💻🖱
-- ESTUDANTE DE DESENVOLVIMENTO DE SISTEMAS - FIAP
 - DEV IN DEVELOPMENT
   
   
