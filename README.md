@@ -1,5 +1,5 @@
 # 💫 About Me:
- ✨ Hello there! <br><br>Eduardo here, full stack developer, graduated from FIAP, Brazil.  <br>I'm passionate about **technology** and always learning something new — whether it's **technology**, **stories**, **music**, or **languages**.  <br>**Music is my passion**, it drives me and fuels my creativity. 🎶<br><br>Feel free to hit me up if you want to chat about anything<br>**SCHEAH **<br>
+ ✨ Hello there! <br><br>Eduardo here, full stack developer, graduated from FIAP, Brazil.  <br>I'm passionate about **technology** and always learning something new — whether it's **technology**, **stories**, **music**, or **languages**.  <br>**Music is my passion**, it drives me and fuels my creativity. 🎶<br><br>Feel free to hit me up if you want to chat about anything
 
 
 ## 🌐 Socials:
